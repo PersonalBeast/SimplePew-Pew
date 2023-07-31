@@ -36,7 +36,7 @@ Simple Pew-Pew is a simple arcade-style game built with Python and the Pygame li
 
 1. Clone this repository to your local machine.
 2. Ensure you have Python and Pygame installed.
-3. Run `python main.py` in the terminal to start the game.
+3. Run `python Simple_pew-pew.py` in the terminal to start the game.
 
 ## Dependencies
 
