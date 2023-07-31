@@ -40,7 +40,7 @@ Simple Pew-Pew is a simple arcade-style game built with Python and the Pygame li
 
 ## Dependencies
 
-- Python 3.x
+- Python 3
 - Pygame
 
 ## License
